@@ -37,4 +37,4 @@ This folder keeps two auxiliary projects which is designed to transport data fro
 - **WR_FIMG_2_SD：** Write a full(320*240) image to SD card
 
 ### 4.3 Script
-Python script to transfer pictures to RGB565 data.Make sure you've installed OpenCV.
+Python script to transfer pictures to RGB565 data. Make sure you've installed OpenCV.
