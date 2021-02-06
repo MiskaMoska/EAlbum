@@ -1,5 +1,5 @@
 # 1  Introduction
-The software code of a little electronic album(EAlbum),which is designed based on STM32 F1 series MCU. Some pictures are provided to show the outlook of EAlbum.
+The software code of a little electronic album(EAlbum),which is designed based on STM32F103C8T6 MCU. Some pictures are provided to show the outlook of EAlbum.
 
 **Click [here](https://pan.baidu.com/s/1BRxl9arHRHqPtyCifSQCGA) to get more information about EAlbum,extraction code `8nyz`** 
 
