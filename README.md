@@ -32,7 +32,7 @@ Yeah I know it is an awful way,it makes my project far more complicated and far 
 This folder keeps the main project.Abundant user functions are defined in `myfuns.c`
 and declared in `myfuns.h` and a Chinese character database is established in `FONT.H`.
 ### 4.2 Auxiliary
-This folder keeps two auxiliary projects which is designed to transport data from .txt docs on PC to SD card physical sectors.The variable `base_sector` in `main.c` is the start sector to read or write,the real time sector in access is displayed on LCD. User is permitted to use keys to change the sector he/she want to save data and to start a receive(from PC) or a write(to SD card) action.
+This folder keeps two auxiliary projects which is designed to transport data from .txt docs on PC to SD card physical sectors.The variable `base_sector` in `main.c` is the start sector to read or write,the real time sector in access is displayed on LCD. User is permitted to use keys to change the sector he/she wants to save data and to start a receive(from PC) or a write(to SD card) action.
 - **WR_SIMG_2_SD：** Write a small(128*240) image to SD card
 - **WR_FIMG_2_SD：** Write a full(320*240) image to SD card
 
