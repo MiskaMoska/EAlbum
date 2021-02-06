@@ -22,7 +22,7 @@ So I adopted another method:to save pictures into the physical sectors of SD car
 
 But how can I get the RGB565 color data of the pictures? I use a **python script** to achieve it, in which I **transferred the pictures to .txt docs one by one**.After that I use my **development board** which is equipped with a STM32F4 core to transport the data from these .txt docs into the SD card through a **UART port**. 
 
-However, the sector access functions which I just said support accesses by sector only, that means I cannot transport data whose size is smaller than a sector(512B)to SD card. So I have to set a 512B buffer to buff the data received from my PC,but the buffer is too large and it interrupt my UART transportation when I read out the data from the buffer. So I devide the whole transportation into two steps:
+However, the sector access functions which I just said support accesses by sector only, that means I cannot transport data whose size is smaller than a sector(512B)to SD card. So I have to set a 512B buffer to buffer the data received from my PC,but the buffer is too large and it interrupt my UART transportation when I read out the data from the buffer. So I devide the whole transportation into two steps:
 - First transport data from .txt docs into the LCD controller to display.
 - Second read the data on screen and transport it into corresponding sectors of the SD card.
 
