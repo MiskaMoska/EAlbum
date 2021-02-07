@@ -26,7 +26,6 @@ However, the sector access functions which I just said support accesses by secto
 - First transport data from .txt docs into the LCD controller to display.
 - Second read the data on screen and transport it into corresponding sectors of the SD card.
 
-Yeah I know it is an awful way,it makes my project far more complicated and far less extensible, but I enjoy the process of dealing with data.
 # 4 File Structure
 ### 4.1 Main
 This folder keeps the main project.Abundant user functions are defined in `myfuns.c`
