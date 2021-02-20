@@ -4,7 +4,7 @@ The software code of a little electronic album(EAlbum),which is designed based o
 
 **Click [here](https://pan.baidu.com/s/1BRxl9arHRHqPtyCifSQCGA) to get more information about EAlbum,extraction code `8nyz`** 
 
-**Click [here](https://www.bilibili.com/video/BV1of4y1e7pQ)to see a brief video of EAlbum** 
+**Click [here](https://www.bilibili.com/video/BV1of4y1e7pQ) to see a brief video of EAlbum** 
 
 # 2 Functions
 - **Show Stuffs：** EAlbum is equipped with a TFT LCD,so it is able to show not only photos but anything(text,logos,pictures,videos,etc.) you like as long as you program it to do so. 
