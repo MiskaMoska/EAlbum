@@ -6,11 +6,11 @@ The software code of a little electronic album(EAlbum),which is designed based o
 
 **Click [here](https://www.bilibili.com/video/BV1of4y1e7pQ) to see a brief video of EAlbum** 
 
-![img1](https://github.com/MiskaMoska/EAlbum/img1.png)
+![img1](https://github.com/MiskaMoska/EAlbum/blob/main/img1.png)
 
-![img2](https://github.com/MiskaMoska/EAlbum/img2.png)
+![img2](https://github.com/MiskaMoska/EAlbum/blob/main/img2.png)
 
-![img3](https://github.com/MiskaMoska/EAlbum/img3.png)
+![img3](https://github.com/MiskaMoska/EAlbum/blob/main/img3.png)
 
 # 2 Functions
 - **Show Stuffs：** EAlbum is equipped with a TFT LCD,so it is able to show not only photos but anything(text,logos,pictures,videos,etc.) you like as long as you program it to do so. 
