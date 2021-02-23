@@ -6,16 +6,15 @@
 #include "key.h"  
 #include "malloc.h" 
 #include "sdio_sdcard.h"    
-//ALIENTEK 探索者STM32F407开发板 实验38
-//SD卡 实验 -库函数版本
-//技术支持：www.openedv.com
-//淘宝店铺：http://eboard.taobao.com
-//广州市星翼电子科技有限公司    
-//作者：正点原子 @ALIENTEK 
+
 //按0键将当前LCD的图片存到SD卡的startsector扇区
 //按1键显示SD卡当前起始扇区的图像
 //按2键减小startsector
 //按wakeup键增大startsector
+//!自我介绍基地址0
+//!成长基地址3000
+//!实践基地址12000
+//!娱乐基地址21000
 
 u16 StartSector = 0;
 u8 a[512];
