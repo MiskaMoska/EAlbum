@@ -10,8 +10,6 @@ The software code of a little electronic album(EAlbum),which is designed based o
 
 ![img2](https://github.com/MiskaMoska/EAlbum/blob/main/img2.png)
 
-![img3](https://github.com/MiskaMoska/EAlbum/blob/main/img3.png)
-
 # 2 Functions
 - **Show Stuffs：** EAlbum is equipped with a TFT LCD,so it is able to show not only photos but anything(text,logos,pictures,videos,etc.) you like as long as you program it to do so. 
 - **Touchable：** The TFT LCD is manufactured touch-sensitive,and the PCB of EAlbum is equipped with a touch controller chip,so users are permitted to control EAlbum by touching the screen.
